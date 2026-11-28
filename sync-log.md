@@ -38,3 +38,4 @@ Automatically updated by the [Sync Upstream](.github/workflows/sync-upstream.yml
 | 2026-11-25 11:15:46 | yasirkula/UnityIngameDebugConsole | 2ede0c1 | Already up to date |
 | 2026-11-26 10:51:09 | yasirkula/UnityIngameDebugConsole | 2ede0c1 | Already up to date |
 | 2026-11-27 10:49:41 | yasirkula/UnityIngameDebugConsole | 2ede0c1 | Already up to date |
+| 2026-11-28 10:23:36 | yasirkula/UnityIngameDebugConsole | 2ede0c1 | Already up to date |
